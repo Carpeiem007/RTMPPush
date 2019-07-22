@@ -1,5 +1,5 @@
 //
-// Created by 郭强 on 2019-06-27.
+// Created by guo on 2019-06-27.
 //
 
 #ifndef RTMPPUSH_AUDIOCHANNEL_H

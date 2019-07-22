@@ -1,5 +1,5 @@
 //
-// Created by 郭强 on 2019-06-17.
+// Created by guo on 2019-06-17.
 //
 #ifndef RTMPPUSH_SAGEQUEUE_H
 #define RTMPPUSH_SAGEQUEUE_H

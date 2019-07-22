@@ -1,5 +1,5 @@
 //
-// Created by 郭强 on 2019-06-13.
+// Created by guo on 2019-06-13.
 //
 
 #ifndef RTMPPUSH_VIDEOCHANNEL_H

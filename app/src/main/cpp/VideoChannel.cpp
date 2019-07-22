@@ -1,5 +1,5 @@
 //
-// Created by 郭强 on 2019-06-13.
+// Created by guo on 2019-06-13.
 //
 #include <stdint.h>
 #include "x264.h"

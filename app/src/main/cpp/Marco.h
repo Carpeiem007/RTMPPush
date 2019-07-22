@@ -1,5 +1,5 @@
 //
-// Created by 郭强 on 2019-07-02.
+// Created by guo on 2019-07-02.
 //
 
 #include <android/log.h>
